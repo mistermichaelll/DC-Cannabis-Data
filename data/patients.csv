@@ -1,0 +1,66 @@
+file_source,date,residency,individual_patients,total_transactions,in_store_transactions,delivery_transactions,average_transaction,in_store_average_sale,delivery_average_sale,in_store_total,delivery_total,total_sales
+Medical Cannabis Program Report | December 2021,2021-10-01T00:00:00Z,DC Residents,3413,10113,9523,590,125,119,209,1137147,123201,1260349
+Medical Cannabis Program Report | December 2021,2021-10-01T00:00:00Z,Non-DC Residents,4468,9256,9254,2,167,167,195,1546108,390,1546498
+Medical Cannabis Program Report | December 2021,2021-11-01T00:00:00Z,DC Residents,3722,10283,9646,637,133,128,219,1230736,139627,1370363
+Medical Cannabis Program Report | December 2021,2021-11-01T00:00:00Z,Non-DC Residents,4264,8610,8610,0,174,174,0,1500433,0,1500433
+Medical Cannabis Program Report | December 2021,2021-12-01T00:00:00Z,DC Residents,3957,11492,10759,733,131,126,215,1351359,157310,1508669
+Medical Cannabis Program Report | December 2021,2021-12-01T00:00:00Z,Non-DC Residents,4396,9279,9276,3,179,179,150,1657678,450,1658128
+Medical Cannabis Program Report | January 2022,2022-01-01T00:00:00Z,DC Residents,3828,10685,9935,750,129,122,221,1209897,165988,1375884
+Medical Cannabis Program Report | January 2022,2022-01-01T00:00:00Z,Non-DC Residents,3921,8337,8835,2,174,174,284,1452961,567,1453528
+Medical Cannabis Program Report | February 2022,2022-02-01T00:00:00Z,DC Residents,3817,10252,9538,713,123,117,203,1116018,144961,1260979
+Medical Cannabis Program Report | February 2022,2022-02-01T00:00:00Z,Non-DC Residents,4144,8323,8320,3,181,181,200,1505697,601,1506298
+Medical Cannabis Program Report | March 2022,2022-03-01T00:00:00Z,DC Residents,3994,11719,10959,760,119,113,213,1236989,161951,1398940
+Medical Cannabis Program Report | March 2022,2022-03-01T00:00:00Z,Non-DC Residents,4368,9029,9025,4,171,171,143,1539924,571,1540495
+Medical Cannabis Program Report | April 2022,2022-04-01T00:00:00Z,DC Residents,4380,12276,11432,844,125,119,204,1364731,171903,1536634
+Medical Cannabis Program Report | April 2022,2022-04-01T00:00:00Z,Non-DC Residents,4729,9493,9489,4,182,182,116,1726768,463,1727231
+Medical Cannabis Program Report | May 2022,2022-05-01T00:00:00Z,DC Residents,4058,11523,10767,756,116,110,207,1181375,156757,1338132
+Medical Cannabis Program Report | May 2022,2022-05-01T00:00:00Z,Non-DC Residents,4342,8743,8742,1,176,176,104,1534877,104,1534981
+Medical Cannabis Program Report | June 2022,2022-06-01T00:00:00Z,DC Residents,4126,11684,10937,747,117,111,202,1219152,150641,1369793
+Medical Cannabis Program Report | June 2022,2022-06-01T00:00:00Z,Non-DC Residents,4138,8429,8427,2,174,174,104,1467135,227,1467362
+Medical Cannabis Program Report | July 2022,2022-07-01T00:00:00Z,DC Residents,4567,12559,11744,815,113,108,108,1263745,153391,1417136
+Medical Cannabis Program Report | July 2022,2022-07-01T00:00:00Z,Non-DC Residents,4246,8557,8555,2,177,177,151,1512227,302,1512529
+Medical Cannabis Program Report | August 2022,2022-08-01T00:00:00Z,DC Residents,6078,15142,14267,875,107,102,178,1458167,156166,1614333
+Medical Cannabis Program Report | August 2022,2022-08-01T00:00:00Z,Non-DC Residents,3989,8177,8174,3,168,168,114,1371184,343,1371527
+Medical Cannabis Program Report | September 2022,2022-09-01T00:00:00Z,DC Residents,5977,15252,14396,856,106,101,180,1458656,154348,1613004
+Medical Cannabis Program Report | September 2022,2022-09-01T00:00:00Z,Non-DC Residents,3919,7953,7950,3,167,167,82,1330111,246,1330357
+Medical Cannabis Program Report | October 2022,2022-10-01T00:00:00Z,DC Residents,6121,15763,14862,901,105,100,177,1489495,159361,1648855
+Medical Cannabis Program Report | October 2022,2022-10-01T00:00:00Z,Non-DC Residents,4206,8249,8246,3,165,165,132,1363568,397,1363965
+Medical Cannabis Program Report | November 2022,2022-11-01T00:00:00Z,DC Residents,6264,15966,14996,970,103,99,172,1478047,167201,1645248
+Medical Cannabis Program Report | November 2022,2022-11-01T00:00:00Z,Non-DC Residents,4804,9304,9294,10,163,163,252,1516158,2519,1518677
+Medical Cannabis Program Report | December 2022,2022-12-01T00:00:00Z,DC Residents,6619,17141,16052,1089,103,98,175,1589407,190351,1769758
+Medical Cannabis Program Report | December 2022,2022-12-01T00:00:00Z,Non-DC Residents,5306,10560,10532,28,163,164,110,1722797,3093,1725890
+Medical Cannabis Program Report | January 2023,2023-01-01T00:00:00Z,DC Residents,6294,16759,15671,1088,99,95,160,1491904,174044,1665948
+Medical Cannabis Program Report | January 2023,2023-01-01T00:00:00Z,Non-DC Residents,4973,9871,9827,44,160,160,129,1577060,5694,1582754
+Medical Cannabis Program Report | February 2023,2023-02-01T00:00:00Z,DC Residents,6275,16156,15035,1121,99,95,158,1423034,177378,1600412
+Medical Cannabis Program Report | February 2023,2023-02-01T00:00:00Z,Non-DC Residents,3236,6518,6501,17,163,163,154,1056957,2614,1059571
+Medical Cannabis Program Report | February 2023,2023-02-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),1858,3141,3109,32,158,158,149,491406,4775,496181
+Medical Cannabis Program Report | March 2023,2023-03-01T00:00:00Z,DC Residents,6555,18161,16923,1238,100,95,166,1615088,205101,1820189
+Medical Cannabis Program Report | March 2023,2023-03-01T00:00:00Z,Non-DC Residents,3307,6990,6967,23,167,167,139,1163882,3192,1167074
+Medical Cannabis Program Report | March 2023,2023-03-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),2047,3756,3733,23,152,152,140,568056,3218,571274
+Medical Cannabis Program Report | April 2023,2023-04-01T00:00:00Z,DC Residents,6867,17927,16765,1162,104,100,164,1673459,190162,1863621
+Medical Cannabis Program Report | April 2023,2023-04-01T00:00:00Z,Non-DC Residents,3251,6465,6434,31,174,174,198,1119698,6129,1125827
+Medical Cannabis Program Report | April 2023,2023-04-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),1422,3816,3798,18,157,157,135,596227,2431,598658
+Medical Cannabis Program Report | May 2023,2023-05-01T00:00:00Z,DC Residents,6415,18056,17008,1048,97,93,164,1574155,171495,1745650
+Medical Cannabis Program Report | May 2023,2023-05-01T00:00:00Z,Non-DC Residents,3073,6241,6210,31,162,161,240,1000962,7445,1008407
+Medical Cannabis Program Report | May 2023,2023-05-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),2136,3981,3961,20,142,141,216,559599,4314,563913
+Medical Cannabis Program Report | June 2023,2023-06-01T00:00:00Z,DC Residents,6565,17673,16761,912,97,93,166,1563805,151031,1714836
+Medical Cannabis Program Report | June 2023,2023-06-01T00:00:00Z,Non-DC Residents,3052,6074,6044,30,165,164,223,992686,6703,999389
+Medical Cannabis Program Report | June 2023,2023-06-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),2086,3917,3900,17,144,144,159,560660,2708,563368
+Medical Cannabis Program Report | July 2023,2023-07-01T00:00:00Z,DC Residents,6234,16798,15685,1113,94,89,169,1388290,187976,1576266
+Medical Cannabis Program Report | July 2023,2023-07-01T00:00:00Z,Non-DC Residents,2830,5634,5598,36,166,166,183,930390,6547,936937
+Medical Cannabis Program Report | July 2023,2023-07-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),1649,2916,2885,31,155,153,289,442379,8952,451331
+Medical Cannabis Program Report | August 2023,2023-08-01T00:00:00Z,DC Residents,6426,17134,16084,1050,92,87,167,1395598,175444,1571042
+Medical Cannabis Program Report | August 2023,2023-08-01T00:00:00Z,Non-DC Residents,2843,5972,5928,44,155,155,148,918064,6520,924584
+Medical Cannabis Program Report | August 2023,2023-08-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),1607,2923,2886,37,157,156,208,449854,7710,457564
+Medical Cannabis Program Report | September 2023,2023-09-01T00:00:00Z,DC Residents,6429,16916,15861,1055,91,86,163,1359625,171902,1531528
+Medical Cannabis Program Report | September 2023,2023-09-01T00:00:00Z,Non-DC Residents,2846,6214,6174,40,151,151,160,933809,6381,940190
+Medical Cannabis Program Report | September 2023,2023-09-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),1754,3120,3096,24,164,163,236,506090,5668,511758
+Medical Cannabis Program Report | October 2023,2023-10-01T00:00:00Z,DC Residents,6370,17443,16335,1108,87,82,161,1335244,177896,1513140
+Medical Cannabis Program Report | October 2023,2023-10-01T00:00:00Z,Non-DC Residents,2710,5899,5866,33,149,149,150,872841,4940,877780
+Medical Cannabis Program Report | October 2023,2023-10-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),2127,3449,3415,34,146,180,145,496343,6112,502455
+Medical Cannabis Program Report | November 2023,2023-11-01T00:00:00Z,DC Residents,6478,17201,16061,1140,89,84,157,1344139,178814,1522954
+Medical Cannabis Program Report | November 2023,2023-11-01T00:00:00Z,Non-DC Residents,2601,5567,5523,44,149,149,147,821942,6475,828417
+Medical Cannabis Program Report | November 2023,2023-11-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),2013,3418,3364,54,155,154,180,519286,9741,529027
+Medical Cannabis Program Report | December 2023,2023-12-01T00:00:00Z,DC Residents,6768,18066,16876,1190,91,86,158,1448963,187678,1636641
+Medical Cannabis Program Report | December 2023,2023-12-01T00:00:00Z,Non-DC Residents,2603,5618,5571,47,155,155,151,866146,7102,873248
+Medical Cannabis Program Report | December 2023,2023-12-01T00:00:00Z,Non-DC Residents (Self-Certified Temporary),2154,3594,3553,41,152,152,199,538700,8171,546871
