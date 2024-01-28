@@ -2,6 +2,8 @@
 This repository contains monthly data published by the DC Alcoholic Beverage and Cannabis Administration (DC ABCA) pertaining to Washington D.C.'s medical cannabis program.
 
 # About the Program
+![](https://images.squarespace-cdn.com/content/v1/5a2d7ede9f07f555529f3ace/13466b8c-7ec0-416b-9e1b-b522477947b5/unnamed-109.png)
+
 Washington D.C.'s medical cannabis program is administered by the DC ABCA, which releases monthly data reports. Unfortunately, these reports are provided in PDF format, making it challenging for external researchers, students, or other interested parties to access and utilize the information effectively.
 
 # About this Repository
