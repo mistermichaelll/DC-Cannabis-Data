@@ -9,6 +9,8 @@ Washington D.C.'s medical cannabis program is administered by the DC ABCA, which
 # About this Repository
 This repository aims to address the accessibility issue by providing CSV datasets containing the same information found in the PDF reports published by the DC ABCA. The datasets have been compiled through straightforward data entry, with each file corresponding to the relevant table header in the PDF reports.
 
+**Disclaimer:** This repository is an independent effort and is not officially affiliated with the DC Alcoholic Beverage and Cannabis Administration (ABCA). The data provided here is obtained from publicly available PDF reports published by the ABCA for the purpose of improving accessibility and usability.
+
 # Data Entry Notes
 - Data in this repository begins from the December 2021 report. For October and November 2021, values were backfilled from the December report. **Going forward, no other entries are backfilled—each month's data corresponds to the values from that month's report.**
 - In the February 2023 report, a new resident category was introduced to the report (*Non-DC Residents, Self-Certified Temporary*). The `individual_patients` value in the `patients.csv` file corresponds to the`Total Unique Patients who Purchased` value in the self-certified patients section of the PDF.
