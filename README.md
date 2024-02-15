@@ -20,6 +20,9 @@ This repository aims to address the accessibility issue by providing CSV dataset
 # Sources
 The PDF sources are listed below:
 
+## 2024 
+- [January](https://abca.dc.gov/sites/default/files/dc/sites/abra/page_content/attachments/MCP%20Metrics%20-%20January%202024.pdf)
+
 ## 2023
 - [December](https://abca.dc.gov/sites/default/files/dc/sites/abra/page_content/attachments/MCP%20Metrics%20-%20December%202023.pdf)
 - [November](https://abca.dc.gov/sites/default/files/dc/sites/abra/page_content/attachments/MCP%20Report%20-%20November%202023.pdf)
